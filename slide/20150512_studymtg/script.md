@@ -84,7 +84,7 @@ ___
 
 A2.
 
-cat query.log | grep ">/d/select.json?" | awk -F ">" '{print $2}' | sort | uniq -c | sort
+cat query.log | grep ">/d/select?" | awk -F ">" '{print $2}' | sort | uniq -c | sort
 
 ---
 
