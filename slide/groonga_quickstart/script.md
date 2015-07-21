@@ -86,7 +86,8 @@ ___
 groongaコマンドが使えるか確認してください。
 
 ```
-% groonga status
+% groonga
+>
 ```
 
 ---
